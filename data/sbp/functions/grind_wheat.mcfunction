@@ -1,0 +1,1 @@
+data merge entity @s {Item:{id:"minecraft:white_dye",tag:{display:{Name:'{"text":"Wheat Flour","italic":false}',Lore:['{"text":"Used with water to bake","color":"gray","italic":false}','{"text":"a loaf of bread","color":"gray","italic":false}']},flour:1b}}}
