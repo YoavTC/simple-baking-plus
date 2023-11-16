@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "minecraft:rabbit_foot"
+    },
+    "result": "minecraft:bread",
+    "experience": 0.35,
+    "cookingtime": 75
+}

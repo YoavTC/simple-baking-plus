@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Simple Baking+",
+        "description": "A Datapack that adds new ways of baking bread",
+        "icon": {
+            "item": "minecraft:wheat"
+        },
+        "background": "minecraft:textures/block/barrel_side.png",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

@@ -1,1 +1,2 @@
-data merge entity @s {Item:{id:"minecraft:white_dye",tag:{display:{Name:'{"text":"Wheat Flour","italic":false}',Lore:['{"text":"Used with water to bake","color":"gray","italic":false}','{"text":"a loaf of bread","color":"gray","italic":false}']},flour:1b}}}
+data merge entity @s {Item:{id:"minecraft:white_dye",tag:{CustomModelData:1,display:{Name:'{"text":"Wheat Flour","italic":false}',Lore:['{"text":"Throw into the water","color":"gray","italic":false}','{"text":"to make bread dough","color":"gray","italic":false}']},flour:1b}}}
+execute positioned as @s run advancement grant @p only sbp:chefs_kiss

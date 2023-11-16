@@ -1,0 +1,22 @@
+{
+    "display": {
+        "title": "Chef's Kiss",
+        "description": {
+            "text": "Grind Wheat using a Piston",
+            "color": "green"
+        },
+        
+        "hidden": false,
+        "icon": {
+            "item": "minecraft:piston"
+        },
+        "show_toast": true,
+        "announce_to_chat": true
+    },
+    "parent": "sbp:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

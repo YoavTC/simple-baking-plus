@@ -3,11 +3,11 @@
       "requirement": {
         "trigger": "minecraft:recipe_unlocked",
         "conditions": {
-          "recipe": "sbp:dough"
+          "recipe": "sbp:flour"
         }
       }
     },
     "rewards": {
-      "function": "sbp:craft_dough"
+      "function": "sbp:craft_flour"
     }
 }

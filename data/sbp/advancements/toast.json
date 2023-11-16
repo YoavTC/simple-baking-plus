@@ -1,0 +1,22 @@
+{
+    "display": {
+        "title": "This Guy's Toast!",
+        "description": {
+            "text": "Toast a piece of Bread in the Nether",
+            "color": "dark_purple"
+        },
+        "frame": "challenge",
+        "hidden": false,
+        "icon": {
+            "item": "minecraft:charcoal"
+        },
+        "show_toast": true,
+        "announce_to_chat": true
+    },
+    "parent": "sbp:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}
